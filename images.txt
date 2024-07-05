@@ -1,1 +1,1 @@
-docker.io/savatar101/omniparse
+nvidia/cuda:11.6.2-cudnn8-devel-ubuntu20.04
