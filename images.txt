@@ -1,1 +1,1 @@
-savatar101/omniparse:latest
+redis:latest
