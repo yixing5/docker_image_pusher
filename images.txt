@@ -1,1 +1,1 @@
-savatar101/omniparse
+docker.io/savatar101/omniparse
