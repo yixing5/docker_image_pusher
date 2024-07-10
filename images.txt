@@ -1,2 +1,3 @@
 savatar101/omniparse:0.1
 vllm/vllm-openai:latest
+docker.io/nvidia/cuda:11.8.0-devel-ubuntu18.04
