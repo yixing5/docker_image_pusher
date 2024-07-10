@@ -1,1 +1,2 @@
 savatar101/omniparse:0.1
+vllm/vllm-openai:latest
